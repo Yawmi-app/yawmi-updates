@@ -1,13 +1,12 @@
-
 {
   "app_name": "Yawmi",
   "latest_version": "1.1.4",
   "version_code": 8,
   "update_available": true,
   "title": "تحديث جديد لتطبيق يومي",
-  "message": "يتوفر تحديث جديد لتحسين تجربة استخدام تطبيق يومي.",
+  "message": "يتوفر تحديث جديد لتطبيق يومي يتضمن تحسينات وإصلاحات.",
   "telegram_channel": "https://t.me/YawmiUpdates",
-  "telegram_post": "https://t.me/YawmiUpdates/5",
+  "telegram_post": "ضع_رابط_منشور_APK_الجديد_هنا",
   "apk_url": "",
   "force_update": false
 }
